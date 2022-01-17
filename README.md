@@ -26,6 +26,6 @@ A shape could be interpreted in different ways depending on the person.  For exa
 
 ![image](https://user-images.githubusercontent.com/92542382/149685953-961fffa6-7507-490f-90ba-96b850e38fb2.png)
 
-Also, a user may want to search based on the duration of the sighting.  This webpage does not allow that.  This could be resolved by putting the duration times in bins of time ranges.  A user could then search based on these ranges. 
+Also, a user may want to search based on the duration of the sighting.  This webpage does not allow that.  This could be resolved by standardizing the duration times and putting the durations in bins of time ranges.  A user could then search based on these ranges. 
 
 [Link to webpage](https://jaycecox.github.io/UFOs/)
