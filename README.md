@@ -6,6 +6,9 @@ This website is designed to allow users to filter for multiple criteria in order
 # Uses: 
 A user can filter based on date, city, state, country, and shape of the sighting. 
 
+![image](https://user-images.githubusercontent.com/92542382/149686905-38f9def9-a753-4ef8-8379-b2d6f5021058.png)
+
+
 If a person recalls seeing something in the sky and wants to know if someone else reported the same sighting, a user can enter different pieces of information of a sighting to see if someone else shared that experience. When the result populates, it will also give a description of the sighting which will allow the user to better identify if this was the same sighting they experienced. For example, if one were to search for a sighting in Bonita, one would see that sighting had three bright red lights.  If the user also saw three bright red lights, that person would know that someone else saw what they saw. 
 
 ![image](https://user-images.githubusercontent.com/92542382/149685020-ec9ec76f-efa6-434c-b54b-b302cb0170bd.png)
