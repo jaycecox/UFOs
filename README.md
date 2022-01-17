@@ -1,12 +1,12 @@
 # UFOs
 
 # Purpose:
-This website is designed to allow users to filter for mulitple criteria in order to get details of UFO sightings. 
+This website is designed to allow users to filter for multiple criteria in order to get details of UFO sightings. 
 
 # Uses: 
 A user can filter based on date, city, state, country, and shape of the sighting. 
 
-If a person recalls seeing something in the sky and wants to know if someone else reported the same sighting, a user can enter different pieces of information of a sighting to see if someone else shared that expereince. When the result populates, it will also give a description of the sighting which will allow the user to better idenify if this was the same sighting they expereinced. For example, if one were to search for a sighting in Bonita, one would see that sighting had three bright red lights.  If the user also saw three bright red lights, that person would know that someone else saw what they saw. 
+If a person recalls seeing something in the sky and wants to know if someone else reported the same sighting, a user can enter different pieces of information of a sighting to see if someone else shared that experience. When the result populates, it will also give a description of the sighting which will allow the user to better identify if this was the same sighting they experienced. For example, if one were to search for a sighting in Bonita, one would see that sighting had three bright red lights.  If the user also saw three bright red lights, that person would know that someone else saw what they saw. 
 
 ![image](https://user-images.githubusercontent.com/92542382/149685020-ec9ec76f-efa6-434c-b54b-b302cb0170bd.png)
 
@@ -29,3 +29,4 @@ A shape could be interpreted in different ways depending on the person.  For exa
 Also, a user may want to search based on the duration of the sighting.  This webpage does not allow that.  This could be resolved by standardizing the format of the duration times.
 
 [Link to webpage](https://jaycecox.github.io/UFOs/)
+
