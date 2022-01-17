@@ -22,10 +22,10 @@ One might be curious to see if there were multiple sightings on a particular day
 
 # Drawbacks and Solutions
 
-A shape could be interpreted in different ways depending on the person.  For example, one might report the object sighted as a "sphere" but another person could report it as a "fireball".
+A shape could be interpreted in different ways depending on the person.  For example, one might report the object sighted as a "sphere" but another person could report it as a "fireball".  A solution to this may be at the data level where it would have to be cleaned. 
 
 ![image](https://user-images.githubusercontent.com/92542382/149685953-961fffa6-7507-490f-90ba-96b850e38fb2.png)
 
-Also, a user may want to search based on the duration of the sighting.  This webpage does not allow that.  This could be resolved by standardizing the duration times and putting the durations in bins of time ranges.  A user could then search based on these ranges. 
+Also, a user may want to search based on the duration of the sighting.  This webpage does not allow that.  This could be resolved by standardizing the format of the duration times.
 
 [Link to webpage](https://jaycecox.github.io/UFOs/)
